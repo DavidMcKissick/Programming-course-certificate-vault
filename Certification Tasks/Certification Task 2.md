@@ -4,7 +4,7 @@
 Write a simple website with at least 1 public API, 1 database system, and 1 UX library. (Javascript)
 
 ## Option 2
-Write a desktop text editor application that allows bolding, italics, file saving, etc. (Any language)
+Write a desktop text editor application that allows bolding, italics, file saving, etc. (Any language) (Except for scratch and other visual scripting systems)
 
 ## How to submit
 1. Complete the student signup sheet at https://docs.google.com/forms/d/e/1FAIpQLSd1C17Ya1IEvDdfbiZTz1SmoqZYIE0s0DpPeSE8MbRKCmvkkg/viewform
