@@ -5,6 +5,9 @@ To view a list of every person who has earned a certificate through the program 
 
 To view an individual certificate, find that person's folder in "Students" then find the certificate you'd like to view.
 
+### Signup
+To sign up to receive certifications and be elligible for certification projects, please fill in the following form: https://forms.gle/CQnJrxQPKcyte1jHA
+
 ### Why trust McKissick Programming Certifications
 Unlike most low-level teacher certifications I take my certifications very seriously. All Certifications are earned through demonstration of skill and can be easily verified via the earned_certifications.md list.
 
