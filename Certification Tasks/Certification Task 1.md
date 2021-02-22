@@ -9,6 +9,6 @@ Complete an automated unit conversion app in python to convert at least 4 measur
 
 ## How to submit
 1. Complete the student signup sheet at https://docs.google.com/forms/d/e/1FAIpQLSd1C17Ya1IEvDdfbiZTz1SmoqZYIE0s0DpPeSE8MbRKCmvkkg/viewform
-2. Fork the certification vault on github
+2. Fork the certification vault on github once you have a student folder
 3. Place your project folder in Students/yourname/Projects
 4. Submit a pull request and I will review your work. If the work is up to snuff, You will receive your certification in less than 2 weeks. Usually a few hours unless I'm busy.
